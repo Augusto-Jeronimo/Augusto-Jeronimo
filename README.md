@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
+### Olá, me chamo Augusto Jerônimo 👋🏼
+
+  Atualmente estudo no IFRN - Campuz Nova Cruz, sou Tutor na disciplina de Programação Estruturada e Orientada a Objetos. Tenho a ambição de transforma a programação na minha carreira, sou alguém disposto a aprender, participativo e busco oportunidades 🚀
 <div>  
   <img width="59%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Augusto-Jeronimo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Jeronimo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
@@ -29,8 +32,6 @@
 - Criar alguns jogos em java e JavaScript
 - Aprender a usar a Godot Game Engine
 - Aprender C# e criar alguns projetos na Unity
-
-Disposto a aprender, Pretendo seguir carreira na área da programação e desenvolvimento!
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer"/>
