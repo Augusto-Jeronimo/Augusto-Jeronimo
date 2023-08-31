@@ -25,4 +25,12 @@
   <img alt="" src="">
 </div>
 
+#### Alguns objetivos pessoais na área de desenvolvimento
+- Criar alguns jogos em java e JavaScript
+- Aprender a usar a Godot Game Engine
+- Aprender C# e criar alguns projetos na Unity
+
+Disposto a aprender, Pretendo seguir carreira na área da programação e desenvolvimento!
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer"/>
