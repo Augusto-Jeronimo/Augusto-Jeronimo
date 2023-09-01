@@ -4,8 +4,8 @@
 
   Atualmente estudo no IFRN - Campuz Nova Cruz, sou Tutor na disciplina de Programação Estruturada e Orientada a Objetos. Tenho a ambição de transforma a programação na minha carreira, sou alguém disposto a aprender, participativo e busco oportunidades 🚀
 <div>  
-  <img width="59%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Augusto-Jeronimo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augusto-Jeronimo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="59%" height="195px" src="https://github-readme-stats.vercel.app/api?username=augustojeronimo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Augusto Jerônimo github stats" /> 
+  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustojeronimo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ### O que estudo atualmente
